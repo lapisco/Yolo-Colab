@@ -50,3 +50,5 @@ WEIGHTS_FILE_NAME = 'yolo-v2_final.weights'
 - `WEIGHTS_FILE_NAME`: the file name of these weights.set to false when you want to train from scratch.
 
 There is nothing to worry about the rest. Run the following cell as you scroll down and the traning should start and upload `.weights` to the `OUTPUT_FOLDER_ID`.
+
+> Keep in mind to accept drive permissions and authenticate it.
