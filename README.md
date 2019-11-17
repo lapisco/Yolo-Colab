@@ -18,7 +18,7 @@ The `cfg` directory should contain:
 - `obj.names`: the labels for the in the dataset;
 - `test.txt`: the path wherein the training images are stored;
 - `train.txt`: the path wherein the test images are stored;
-- `yolo-v2.cfg`: last, but not least, the main file to use during training call of YoLo.
+- `yolo-v2.cfg`: last, but not least, the main file to use during training call of YoLo. See more in [AlexeyAB](https://github.com/AlexeyAB/darknet/tree/master/cfg).
 
 The `img` directory is pretty straightfoward. 
 
